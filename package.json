@@ -1,0 +1,23 @@
+{
+  "name": "aruodas-flat-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mantofka/aruodas-flat-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mantofka/aruodas-flat-checker/issues"
+  },
+  "homepage": "https://github.com/Mantofka/aruodas-flat-checker#readme",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
